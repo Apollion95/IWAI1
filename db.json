@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "name": "Anakin Powerwalker",
+      "height": "183",
+      "mass": "80",
+      "eye": "Blue",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Leila ",
+      "height": "167",
+      "mass": "65",
+      "eye": "Green",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Troll",
+      "height": "140",
+      "mass": "120",
+      "eye": "Red",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}
